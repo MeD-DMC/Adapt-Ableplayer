@@ -1,13 +1,13 @@
 {
     "name": "adapt-Ableplayer",
-    "version": "0.1.0",
+    "version": "0.0.5",
     "framework": ">=3.3",
     "homepage": "https://github.com/MeD-DMC/Adapt-Ableplayer",
     "issues": "https://github.com/ableplayer/ableplayer",
     "displayName": "Adapt-Ableplayer",
     "component": "Media-ableplayer",
     "description": "THIS IS UNACCEPTABLE!!",
-    "main": "/js/adapt-contrib-text.js",
+    "main": "/js/adapt-ableplayer.js",
     "keywords": [
         "adapt-plugin",
         "adapt-component",
