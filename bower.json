@@ -1,6 +1,8 @@
 {
     "name": "adapt-Ableplayer",
+
     "version": "0.0.5",
+
     "framework": ">=3.3",
     "homepage": "https://github.com/MeD-DMC/Adapt-Ableplayer",
     "issues": "https://github.com/ableplayer/ableplayer",
